@@ -36,3 +36,6 @@
 
 # Ignore application configuration
 /config/application.yml
+
+# Ignore initializer flickr.rb
+/config/initializers/flickr.rb
